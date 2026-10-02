@@ -1,0 +1,46 @@
+[
+  {
+    "id": "securinet-001",
+    "entreprise": "Securinet",
+    "intitule": "Administrateur Systèmes et Réseaux",
+    "reference": "SN-2026-042",
+    "recruteur": null,
+    "email_contact": "rh@securinet.example",
+    "description": "Administrer l'infrastructure de virtualisation Hyper-V et les serveurs, maintenir la messagerie Exchange et les sites SharePoint, piloter des migrations vers Microsoft 365, appliquer la politique de sécurité (sauvegardes, correctifs). Bac+3 à Bac+5. Notions de DevOps appréciées. CDI en Île-de-France.",
+    "accroche": "L'administration d'environnements Microsoft à l'échelle de PME et d'établissements de santé est exactement le terrain sur lequel j'ai acquis mon expérience.",
+    "paragraphe_entreprise": "Je souhaite contribuer à la fiabilité des services de vos clients, avec une double compétence infrastructure et ingénierie des systèmes d'entreprise."
+  },
+  {
+    "id": "corelab-002",
+    "entreprise": "CoreLab",
+    "intitule": "Technicien Infrastructure Serveurs",
+    "reference": "CL-INF-115",
+    "recruteur": null,
+    "email_contact": "emploi@corelab.example",
+    "description": "Installer et configurer des serveurs DELL, déployer des hôtes de virtualisation Hyper-V, gérer l'infrastructure réseau (câblage, commutateurs), assurer le support de niveau 2. Rédaction de procédures. Bac+2 à Bac+3, première expérience en infrastructure appréciée. CDI, Paris 13e.",
+    "accroche": "Votre offre de technicien infrastructure correspond à mon expérience concrète de configuration de serveurs et de matériel réseau.",
+    "paragraphe_entreprise": "J'apporterais à votre équipe une pratique éprouvée du terrain, ainsi que le goût de la documentation et des procédures claires."
+  },
+  {
+    "id": "nuagis-003",
+    "entreprise": "Nuagis",
+    "intitule": "Ingénieur Migration Microsoft 365",
+    "reference": "NG-MIG-009",
+    "recruteur": null,
+    "email_contact": "talents@nuagis.example",
+    "description": "Piloter des projets de migration vers Microsoft 365 pour des clients : audit de l'existant, migration Exchange et SharePoint, plan de bascule, formation des utilisateurs, gestion des risques de sécurité. Anglais courant. Bac+5, 1 à 3 ans d'expérience. CDI avec déplacements.",
+    "accroche": "Mener des migrations Exchange et SharePoint sans interruption de service est un défi que j'ai déjà relevé et que je souhaite approfondir chez Nuagis.",
+    "paragraphe_entreprise": "Ma formation en ingénierie des systèmes d'entreprise me permet de relier les enjeux métiers aux choix techniques lors d'une migration."
+  },
+  {
+    "id": "fortis-004",
+    "entreprise": "Fortis Réseaux",
+    "intitule": "Administrateur Réseaux et Sécurité",
+    "reference": "FR-NET-052",
+    "recruteur": null,
+    "email_contact": "recrutement@fortis.example",
+    "description": "Administrer les pare-feu, commutateurs et VLAN, superviser l'infrastructure, traiter les incidents de sécurité, mettre en place des bonnes pratiques DevSecOps. Connaissances en virtualisation et en serveurs Windows. Bac+5 réseaux et sécurité. CDI, Saint-Denis.",
+    "accroche": "La sécurité de l'infrastructure réseau est un sujet que je travaille à la fois en formation DevSecOps et en pratique sur du matériel réseau.",
+    "paragraphe_entreprise": "Je serais heureux de renforcer votre équipe avec un profil polyvalent, capable de lier supervision, sécurité et automatisation."
+  }
+]

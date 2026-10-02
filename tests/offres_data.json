@@ -1,0 +1,46 @@
+[
+  {
+    "id": "datanova-001",
+    "entreprise": "DataNova",
+    "intitule": "Data Analyst Junior",
+    "reference": "DN-2026-014",
+    "recruteur": null,
+    "email_contact": "recrutement@datanova.example",
+    "description": "Missions : collecter et nettoyer des jeux de data volumineux, réaliser des analyses de data mining, développer des modèles de machine learning, écrire des requêtes SQL. Profil : Bac+5, maîtrise de Python et pandas, première expérience de projet de data mining. Git apprécié. CDI, Paris, télétravail 2 jours.",
+    "accroche": "Votre travail d'analyse de données pour les acteurs de la mobilité et de l'assurance correspond exactement au type de projets que j'ai menés en Master.",
+    "paragraphe_entreprise": "Je souhaite rejoindre votre équipe d'analystes pour transformer des données volumineuses en indicateurs fiables, avec une formation qui associe ingénierie des systèmes d'information et data mining."
+  },
+  {
+    "id": "lumio-002",
+    "entreprise": "Lumio Analytics",
+    "intitule": "Data Engineer Junior",
+    "reference": "LA-DE-208",
+    "recruteur": null,
+    "email_contact": "jobs@lumio.example",
+    "description": "Concevoir et maintenir des pipelines de data fiables. Python et SQL au quotidien, modélisation de bases de données, qualité des données, documentation. Une expérience avec pandas, Docker et Git est attendue. Bac+5 informatique ou systèmes d'information. CDI à Lyon, 3 jours de télétravail.",
+    "accroche": "Le poste de Data Engineer que vous proposez réunit mes deux terrains de prédilection : la rigueur des bases de données et l'automatisation des traitements.",
+    "paragraphe_entreprise": "Mon parcours entre systèmes d'information et data mining me permet de comprendre à la fois les besoins métiers et les contraintes techniques de vos pipelines."
+  },
+  {
+    "id": "ariane-003",
+    "entreprise": "Ariane Santé",
+    "intitule": "Data Scientist en alternance",
+    "reference": "AS-ALT-031",
+    "recruteur": null,
+    "email_contact": "alternance@arianesante.example",
+    "description": "Alternance de 12 mois. Participer à des projets de machine learning appliqués à la santé publique : classification, clustering, évaluation de modèles. Python, pandas, SQL. Travail sur des bases de data anonymisées. Formation Bac+5 en data ou informatique requise.",
+    "accroche": "Les projets de machine learning appliqués à la santé publique que vous menez donnent un vrai sens à l'analyse de données, ce qui m'attire fortement.",
+    "paragraphe_entreprise": "Mon projet de data mining sur les accidents routiers d'Île-de-France m'a appris à mener une analyse de bout en bout, du nettoyage des données à la restitution des résultats."
+  },
+  {
+    "id": "tramway-004",
+    "entreprise": "Tramway Conseil",
+    "intitule": "Consultant Data Mining",
+    "reference": "TC-2026-77",
+    "recruteur": "Madame Lefèvre",
+    "email_contact": "carrieres@tramway.example",
+    "description": "Au sein de notre cellule data, vous réalisez des missions de data mining pour des clients du transport : préparation des données, règles d'association, segmentation, visualisation. SQL indispensable, Python apprécié. Déplacements ponctuels en Île-de-France. Débutant accepté.",
+    "accroche": "Vos missions de data mining pour le secteur du transport rejoignent directement mon projet de Master sur les données d'accidents en Île-de-France.",
+    "paragraphe_entreprise": "Je serais heureux d'apporter à vos clients une démarche rigoureuse et pédagogue, du premier jeu de données jusqu'aux recommandations concrètes."
+  }
+]

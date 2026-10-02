@@ -1,0 +1,46 @@
+[
+  {
+    "id": "montaigne-001",
+    "entreprise": "Lycée Michel de Montaigne",
+    "intitule": "Professeur de philosophie contractuel",
+    "reference": "LMM-2026-007",
+    "recruteur": null,
+    "email_contact": "secretariat@lycee-montaigne.example",
+    "description": "Enseigner la philosophie en classe de terminale, préparer les élèves à la dissertation et à l'explication de texte, animer un atelier de débat. Master en philosophie requis, agrégation appréciée. CDD d'un an à Bordeaux. Aucune compétence technique requise.",
+    "accroche": "Votre projet d'atelier de débat autour des grands auteurs répond à mon intérêt pour la transmission des idées.",
+    "paragraphe_entreprise": "Je souhaite rejoindre votre équipe pédagogique pour accompagner les élèves vers l'autonomie de la pensée."
+  },
+  {
+    "id": "belleterre-002",
+    "entreprise": "Belle Terre Cosmétiques",
+    "intitule": "Responsable Marketing Produit",
+    "reference": "BT-MKT-120",
+    "recruteur": null,
+    "email_contact": "marketing@belleterre.example",
+    "description": "Définir la stratégie de marque et le positionnement des gammes de soins, piloter les lancements, animer les campagnes de communication, analyser le marché et la concurrence. Bac+5 école de commerce. Cinq ans d'expérience en marketing de beauté. CDI, Paris 8e.",
+    "accroche": "Le lancement de vos nouvelles gammes de soins offre un terrain idéal pour développer une stratégie de marque ambitieuse.",
+    "paragraphe_entreprise": "Je souhaite mettre mon sens de l'organisation au service de vos équipes de marketing produit."
+  },
+  {
+    "id": "modeo-003",
+    "entreprise": "Modéo",
+    "intitule": "Community Manager Mode",
+    "reference": "MD-CM-044",
+    "recruteur": null,
+    "email_contact": "contact@modeo.example",
+    "description": "Animer les comptes de la marque sur les réseaux sociaux, créer des contenus créatifs, répondre aux communautés, suivre les tendances de la mode, collaborer avec les influenceurs. Sens du storytelling indispensable. CDD de 6 mois, Paris 11e.",
+    "accroche": "L'univers créatif de Modéo et la proximité avec sa communauté me donnent envie de contribuer à votre prise de parole.",
+    "paragraphe_entreprise": "Je souhaite apporter de l'énergie et une écriture soignée à vos publications quotidiennes."
+  },
+  {
+    "id": "terroir-004",
+    "entreprise": "Domaine du Terroir",
+    "intitule": "Chargé d'événementiel et d'œnotourisme",
+    "reference": "DT-EVT-018",
+    "recruteur": null,
+    "email_contact": "visites@terroir.example",
+    "description": "Organiser les dégustations, mariages et séminaires au domaine, accueillir les visiteurs, gérer les prestataires et les plannings, promouvoir le domaine auprès des agences. Sens de l'accueil, anglais courant. Saisonnier de mars à octobre, Bourgogne.",
+    "accroche": "L'accueil des visiteurs et la valorisation d'un domaine viticole offrent un cadre de travail que je trouve très motivant.",
+    "paragraphe_entreprise": "Je souhaite contribuer à faire vivre des événements chaleureux et soignés dans votre domaine."
+  }
+]
